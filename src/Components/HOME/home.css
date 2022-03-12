@@ -1,0 +1,20 @@
+.container{
+    text-align: right;
+}
+.card-text{
+    text-align: center;
+    margin-left: 60vh;
+    color:black;
+    
+}
+.card-title{
+    color: black;
+}
+.btn{
+   width:150px;
+  
+}
+/* .btn1{
+    color: rgb(206, 36, 36);
+    width:150px
+} */

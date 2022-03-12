@@ -1,0 +1,54 @@
+
+
+.mb-3{
+    text-align: center;
+    margin-right: 100px;
+} 
+ .myform{
+     /* margin-right: 500px; */
+     margin-left: 350px;
+    padding-right: 200px; 
+     text-align: center;
+     
+    
+
+ } 
+ .contact{
+    background-image: url("../../../public/images/resume.jpg"); 
+    width:100vw;
+    height: 100vh;
+    background-size: cover;
+ }
+ .btn btn-outline-primary{ 
+    text-align: center;
+    /* margin-left:600px; */
+    /* margin-right: 500px; */
+}
+ .btn{
+    /* padding-left: 30px!important; */
+    margin-right: 80px;
+} 
+.label{
+    text-align: center;
+}
+ /* .form-control{
+    width:50px;
+    margin-left: 350px;
+    
+    margin-right: 500px; 
+     padding-right: 300px; 
+   
+ }  */
+.form-label{
+    margin-right: 600px;
+    text-align: center;
+ } 
+ .form-label1{
+    margin-right: 530px; 
+}
+ .form-label2{
+    margin-right: 500px;
+ }  
+.para{
+    margin-right: 280px;
+}

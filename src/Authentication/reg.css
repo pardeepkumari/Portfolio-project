@@ -1,0 +1,15 @@
+.input{
+    margin-left: 300px;
+    font-weight: bold;
+    width: 50px;
+}
+.form1{
+    background-image: url(../../public/images/reg2.jpg);
+    /* background-color: aqua; */
+    width:100vw;
+    height: 100vh;
+    background-size: cover;
+}
+.reg-form{
+    color: white;
+}

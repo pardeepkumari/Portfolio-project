@@ -1,0 +1,29 @@
+.aboutpage{
+    font-weight: bold;
+}
+.progress{
+    math-style: 4;
+    height: 30px;
+    transition: 0.5s ease;
+}
+.progress:hover{
+    transform: scale(1.1);
+}
+.pro{
+    position: absolute;
+    padding: 1px;
+    color: white;
+}
+.image{
+    margin-right: 150px;
+    margin-top: 80px;
+    
+}
+.display-2{
+   
+    line-height:1.5;
+}
+/* .myimg{
+    background-image: url("../../../public/images/resume1.jpg");
+    
+} */
